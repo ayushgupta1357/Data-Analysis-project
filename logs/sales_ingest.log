@@ -1,0 +1,5 @@
+2026-10-11 14:41:18,196-INFO-customer_data.csv Ingested
+2026-10-11 14:41:20,125-INFO-product_data.csv Ingested
+2026-10-11 14:41:22,023-INFO-sales_data.csv Ingested
+2026-10-11 14:41:22,069-INFO-store_data.csv Ingested
+2026-10-11 14:41:22,069-INFO-Total time taken for ingestion is :0.07669360240300496
